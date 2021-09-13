@@ -4,10 +4,10 @@
 
 
 
-Projeto Concluído (100%);
+Project Completed (100%);
 </br>
-Foi adicionado toda a estrutura html e css. Posicionamento e Tamanho e cores dos buttons, down, background img, logos e menu.
+All html and css structure has been added. Positioning and Size and colors of buttons, down, background img, logos and menu.
 </br>
-Modificação do DOWN.png com sucesso
+Modification of DOWN.png successfully
 </br>
-Site totalmente Responsivo.
+Fully Responsive Website.
