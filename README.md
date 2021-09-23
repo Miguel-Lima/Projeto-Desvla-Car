@@ -9,8 +9,6 @@
 
 # Project Completed (100%);
 </br>
-All html and css structure has been added. Positioning and Size and colors of buttons, down, background img, logos and menu.
-</br>
-Modification of DOWN.png successfully
-</br>
-Fully Responsive Website.
+
+
+### Fully Responsive Website.
